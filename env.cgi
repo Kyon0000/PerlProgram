@@ -2,7 +2,7 @@
 
 $string = “Your IP Address is”. $ENV{‘REMOTE_ADDR’};
 
-print ‘Content-Type: text/html’. “\r\n\r\n”;
+print ‘Content-Type: text/html’. “¥r¥n¥r¥n”;
 print ‘<html>’;
 print ‘<head>’;
 print ‘<title>This is CGI Test.</test>;
